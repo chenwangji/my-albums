@@ -3,6 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import 'normalize-css/normalize.css'// A modern alternative to CSS resets
+import './styles/global.scss' // global css
+import 'viewerjs/dist/viewer.min.css'
 
 Vue.config.productionTip = false
 
