@@ -19,7 +19,7 @@ export default {
         let imgList = ['Chrysanthemum', 'Desert', 'Hydrangeas', 'Jellyfish', 'Koala', 'Lighthouse', 'Penguins', 'Tulips'];
         return {
             imgList,
-        }
+        }   
     },
     methods: {
         render(options) {
